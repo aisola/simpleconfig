@@ -1,4 +1,4 @@
-module simpleconfig
+module github.com/aisola/simpleconfig
 
 go 1.17
 
